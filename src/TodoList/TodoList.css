@@ -1,0 +1,19 @@
+.todolist {
+  border: thin solid #ccc;
+  list-style-type: none;
+  padding: 10px;
+  background-color: #ccc;
+}
+
+.todolist li {
+  padding: 0px;
+  font-size: 1.4rem;
+  background-color: #fff;
+  display: block;
+  margin: 15px 5px;
+}
+
+.todolist li input {
+  padding: 5px;
+  margin: 5px;
+}
